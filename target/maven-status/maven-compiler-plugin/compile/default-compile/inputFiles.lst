@@ -1,0 +1,14 @@
+/Users/zhy12345/Desktop/Metric_Web_Service/metricdevapi/src/main/java/com/metric/response/MedianValueResponse.java
+/Users/zhy12345/Desktop/Metric_Web_Service/metricdevapi/src/main/java/com/metric/response/ArithmeticMeanValueResponse.java
+/Users/zhy12345/Desktop/Metric_Web_Service/metricdevapi/src/main/java/com/metric/controller/MetricController.java
+/Users/zhy12345/Desktop/Metric_Web_Service/metricdevapi/src/main/java/com/metric/domain/MetricsBean.java
+/Users/zhy12345/Desktop/Metric_Web_Service/metricdevapi/src/main/java/com/metric/response/InsertResponse.java
+/Users/zhy12345/Desktop/Metric_Web_Service/metricdevapi/src/main/java/com/metric/ServletInitializer.java
+/Users/zhy12345/Desktop/Metric_Web_Service/metricdevapi/src/main/java/com/metric/response/MaxValueResponse.java
+/Users/zhy12345/Desktop/Metric_Web_Service/metricdevapi/src/main/java/com/metric/domain/Info.java
+/Users/zhy12345/Desktop/Metric_Web_Service/metricdevapi/src/main/java/com/metric/response/CreateMetricResponse.java
+/Users/zhy12345/Desktop/Metric_Web_Service/metricdevapi/src/main/java/com/metric/response/MinValueResponse.java
+/Users/zhy12345/Desktop/Metric_Web_Service/metricdevapi/src/main/java/com/metric/MetricdevapiApplication.java
+/Users/zhy12345/Desktop/Metric_Web_Service/metricdevapi/src/main/java/com/metric/domain/MetricBean.java
+/Users/zhy12345/Desktop/Metric_Web_Service/metricdevapi/src/main/java/com/metric/service/IMetricService.java
+/Users/zhy12345/Desktop/Metric_Web_Service/metricdevapi/src/main/java/com/metric/service/impl/MetricServiceImpl.java
